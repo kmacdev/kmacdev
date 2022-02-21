@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kmacdev" alt="kmacdev" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@k_mac_dev" target="blank"><img src="https://img.shields.io/twitter/follow/@k_mac_dev?logo=twitter&style=for-the-badge" alt="@k_mac_dev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/k_mac_dev" target="blank"><img src="https://img.shields.io/twitter/follow/k_mac_dev?logo=twitter&style=for-the-badge" alt="k_mac_dev" /></a> </p>
 
 - 🔭 I’m currently working on [a cv generator](https://kmacdev.github.io/CV/)
 
