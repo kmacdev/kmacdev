@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **kristianmac.dev@gmail.com**
 
-- ⚡ Fun fact **I prefer visiting places for food rather than sites.**
+- ⚡ Fun fact **I prefer visiting places for food rather than for sights.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
